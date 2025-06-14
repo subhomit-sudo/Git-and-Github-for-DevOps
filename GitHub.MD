@@ -20,3 +20,10 @@ git pull                   
 1. First create ssh key by # ssh-keygen
 2. Copy the Public key from .ssh folder and paste to Github SSH
 3. And now you can push and pull any repository (Public or Private)
+
+# Branching strategy
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
